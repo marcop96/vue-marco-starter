@@ -6,4 +6,4 @@ This is a starter template for Vue.js projects. It provides a basic setup with s
 
 To get this project on your computer clone the repository:
 
-   git clone https://github.com/your-username/vue-marco-starter.git
+npx degit marcop96/vue-marco-starter new-project
